@@ -1,0 +1,261 @@
+@font-face {
+  font-family: 'Graphik-ThinItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ThinItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ThinItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ThinItalic.svg#Graphik-ThinItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Thin';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Thin.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Thin.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Thin.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Thin.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Thin.svg#Graphik-Thin') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Thin.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-SuperItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SuperItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SuperItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SuperItalic.svg#Graphik-SuperItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Super';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Super.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Super.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Super.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Super.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Super.svg#Graphik-Super') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Super.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-SemiboldItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SemiboldItalic.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SemiboldItalic.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SemiboldItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SemiboldItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SemiboldItalic.svg#Graphik-SemiboldItalic') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-SemiboldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Semibold';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Semibold.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Semibold.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Semibold.svg#https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Semibold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-RegularItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-RegularItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-RegularItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-RegularItalic.svg#Graphik-RegularItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Regular';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Regular.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Regular.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Regular.svg#Graphik-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-MediumItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-MediumItalic.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-MediumItalic.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-MediumItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-MediumItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-MediumItalic.svg#Graphik-MediumItalic') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-MediumItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Medium';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Medium.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Medium.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Medium.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Medium.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Medium.svg#Graphik-Medium') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Medium.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-LightItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-LightItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-LightItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-LightItalic.svg#Graphik-LightItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Light';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Light.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Light.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Light.svg#Graphik-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-ExtralightItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ExtralightItalic.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ExtralightItalic.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ExtralightItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ExtralightItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ExtralightItalic.svg#Graphik-ExtralightItalic') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-ExtralightItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Extralight';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Extralight.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Extralight.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Extralight.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Extralight.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Extralight.svg#Graphik-Extralight') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Extralight.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-BoldItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BoldItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BoldItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BoldItalic.svg#Graphik-BoldItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-BlackItalic';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BlackItalic.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BlackItalic.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BlackItalic.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BlackItalic.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BlackItalic.svg#Graphik-BlackItalic') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-BlackItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Black';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Black.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Black.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Black.svg#Graphik-Black') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Graphik-Bold';
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Bold.eot');
+  src: url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Bold.woff2') format('woff2'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Bold.woff') format('woff'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Bold.ttf') format('truetype'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Bold.svg#Graphik-Bold') format('svg'),
+       url('https://www.visier.com/wp-content/themes/visier2019/resources/assets/fonts/Graphik/Graphik-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+.pathfactory-hero-section{
+	min-height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000;
+    padding: 3rem 0;
+    text-align: left;
+    font-size: 1rem;
+}
+
+
+.content-wrapper{
+	display: table;
+	width: 100%;
+	min-height: 400px;
+}
+
+.inner{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+p {
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Graphik-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	line-height: 1.41;
+}
+
+.btn{
+	text-decoration: none;
+    padding: 0.75rem 1.5rem;
+    display: inline-block;
+    border-radius: 6.25rem;
+    -webkit-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+    cursor: pointer;
+}
+
+.btn-primary{
+	background-color: #32cbd1;
+    color: #fff;
+    border: 1px solid #32cbd1;
+}
+
+.btn-primary:hover{
+	background-color: #1e9da2;
+	border: 1px solid #1e9da2;
+}
